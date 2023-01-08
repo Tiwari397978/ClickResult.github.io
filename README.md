@@ -1,5 +1,5 @@
 # ClickResult
-This website is completely Manage students result. In this website you can enter and update student marks, Grade, parent details and so other information. 
+This website completely Manages students' results. On this website, you can enter and update student marks, grades, parent details, and so other information.
 # Using Tools and Technology
 php, html, css, mysql, xammp, vscode
 # About us:
